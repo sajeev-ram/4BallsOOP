@@ -12,6 +12,10 @@ public class MovingBall {
 
     }
 
+    public void h(){
+
+    }
+
 
     public void moveBall(ProcessingOOP processingOOP) {
         processingOOP.ellipse(ballPosX, ballPosY, ballDiameter, ballDiameter);
